@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElephantLogReader", "ElephantLogReader\ElephantLogReader.csproj", "{9495E381-7E55-4EF3-B70E-1F07F62B4339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		DebugKopiLua|Any CPU = DebugKopiLua|Any CPU
+		DebugKopiLua|Mixed Platforms = DebugKopiLua|Mixed Platforms
+		DebugKopiLua|Win32 = DebugKopiLua|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		ReleaseKopiLua|Any CPU = ReleaseKopiLua|Any CPU
+		ReleaseKopiLua|Mixed Platforms = ReleaseKopiLua|Mixed Platforms
+		ReleaseKopiLua|Win32 = ReleaseKopiLua|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.DebugKopiLua|Any CPU.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.DebugKopiLua|Any CPU.Build.0 = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.DebugKopiLua|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.DebugKopiLua|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.DebugKopiLua|Win32.ActiveCfg = Debug|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.Release|Win32.ActiveCfg = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.ReleaseKopiLua|Any CPU.ActiveCfg = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.ReleaseKopiLua|Any CPU.Build.0 = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.ReleaseKopiLua|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.ReleaseKopiLua|Mixed Platforms.Build.0 = Release|Any CPU
+		{9495E381-7E55-4EF3-B70E-1F07F62B4339}.ReleaseKopiLua|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
